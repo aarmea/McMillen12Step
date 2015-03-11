@@ -1,0 +1,9 @@
+# Compiled Python files
+*.py[co]
+
+# OS-specific indices
+.DS_Store
+Thumbs.db
+
+# Vim swap files
+*.swp
